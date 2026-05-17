@@ -19,12 +19,6 @@ AI-powered news aggregation system that collects, processes, ranks, and summariz
 - Web scraping pipelines
 - Email automation
 
-## Branches
-
-- `master` → Core functionality
-- `deployment` → Deployment configuration
-- `deployment-final` → Production-ready optimizations
-
 ## Run Locally
 
 ```bash
